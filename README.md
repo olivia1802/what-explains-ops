@@ -13,7 +13,7 @@ To what extent do home runs, batting average, walks, and strikeouts explain vari
 ## Methods
 
 * Data Cleaning with Pandas
-* Correlation Matrix
+* Correlation Analysis
 * Heatmap Visualization
 * Multiple Linear Regression
 * Statistical Interpretation
@@ -27,7 +27,7 @@ To what extent do home runs, batting average, walks, and strikeouts explain vari
 
 ## Dataset
 
-Source: Kaggle - 2023 MLB Player Stats
+Source: Kaggle – 2023 MLB Player Stats Dataset
 
 Original data collected from Baseball Reference.
 
@@ -39,3 +39,8 @@ Original data collected from Baseball Reference.
 * Matplotlib
 * Seaborn
 * Statsmodels
+* Jupyter Notebook
+
+## Files
+
+* `what_explains_ops.ipynb`
